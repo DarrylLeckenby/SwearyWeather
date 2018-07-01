@@ -1,0 +1,13 @@
+C:\Users\Darryl\Desktop\EMIS Assignment\SwearyWeather\bin\Release\SwearyWeather.exe.config
+C:\Users\Darryl\Desktop\EMIS Assignment\SwearyWeather\bin\Release\SwearyWeather.exe
+C:\Users\Darryl\Desktop\EMIS Assignment\SwearyWeather\bin\Release\SwearyWeather.pdb
+C:\Users\Darryl\Desktop\EMIS Assignment\SwearyWeather\bin\Release\Newtonsoft.Json.dll
+C:\Users\Darryl\Desktop\EMIS Assignment\SwearyWeather\bin\Release\Newtonsoft.Json.xml
+C:\Users\Darryl\Desktop\EMIS Assignment\SwearyWeather\obj\Release\SwearyWeather.forms.MainForm.resources
+C:\Users\Darryl\Desktop\EMIS Assignment\SwearyWeather\obj\Release\SwearyWeather.SettingsForm.resources
+C:\Users\Darryl\Desktop\EMIS Assignment\SwearyWeather\obj\Release\SwearyWeather.Properties.Resources.resources
+C:\Users\Darryl\Desktop\EMIS Assignment\SwearyWeather\obj\Release\SwearyWeather.csproj.GenerateResource.cache
+C:\Users\Darryl\Desktop\EMIS Assignment\SwearyWeather\obj\Release\SwearyWeather.csproj.CoreCompileInputs.cache
+C:\Users\Darryl\Desktop\EMIS Assignment\SwearyWeather\obj\Release\SwearyWeather.csproj.CopyComplete
+C:\Users\Darryl\Desktop\EMIS Assignment\SwearyWeather\obj\Release\SwearyWeather.exe
+C:\Users\Darryl\Desktop\EMIS Assignment\SwearyWeather\obj\Release\SwearyWeather.pdb
