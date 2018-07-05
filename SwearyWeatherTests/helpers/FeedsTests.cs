@@ -12,6 +12,8 @@ namespace SwearyWeather.helpers.Tests
     [TestClass()]
     public class FeedsTests
     {
+        
+        //Yes these unit tests are not very good. This is a practical test and the focus is not unit testing at all - they are just here as a crude starting point.
 
         [TestMethod()]
         public void GetWeatherLocations()
